@@ -5,7 +5,7 @@
         id="video-short"
         class="video-js vjs-default-skin"
         preload
-        width="3000"
+        width="100%"
         data-setup="{}"
         autoplay
         muted

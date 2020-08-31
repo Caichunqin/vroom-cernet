@@ -4,12 +4,12 @@ export default {
     companyDesc: '网络服务教育 创新开拓未来',
     shortVideo: {
       url:
-        'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/81d32a637a9a58ed0115c5e1ff539cc2/b467c809206f08005f2182f9b102b11d.mp4',
+        'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/7d2bb868bd00e0ca4a6c88045b9657df/22a763042c1740930fb834710e452cc3.mp4',
       type: 'video/mp4',
     },
     originVideo: {
       url:
-        'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/ec0b0f66e2992cf5d404c7f982bdce63/3e6925f60d37fd3e89d3b02fff6607e0.mp4',
+        'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/5d1bb3a9c746c79cdf297ed1c0fb250f/3ed08a85d72e993511973884eaff4e9b.mp4',
       type: 'video/mp4',
     },
     // logo 反白 480 x 120 透明底 png
@@ -120,13 +120,13 @@ export default {
     'title-en': 'VIDEOS',
     list: [
       {
-        title: '赛尔网络大事记',
-        time: '00:03:59',
+        title: '赛尔网络的由来',
+        time: '00:00:51',
         // 660 x 380
         picUrl: require('@/assets/imgs/p1-660x380.png'),
         video: {
           url:
-            'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/a42e0ac399cb4ee2244a65a45ec2ee67/f265df8dd367fd9c8f80df9565c20013.mp4',
+            'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/1eef9bdf69aa0daf126451a4ab28e480/f068ea94125e39e39dd985a618141683.mp4',
           type: 'video/mp4',
         },
       },
@@ -141,22 +141,22 @@ export default {
         },
       },
       {
-        title: '赛尔网络获得多项国家荣誉',
-        time: '00:01:39',
+        title: '赛尔网络大事记',
+        time: '00:03:17',
         picUrl: require('@/assets/imgs/p3-660x380.png'),
         video: {
           url:
-            'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/bff6de887dcbf59a57a10b3a72281a15/1dd1b21aac811c95080a3617e88e75f3.mp4',
+            'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/dce3a07e0ebbcd547615b4d6dd6db288/1b65044e7f661d718f9c5436e75a0c92.mp4',
           type: 'video/mp4',
         },
       },
       {
-        title: '赛尔网络助力高考招生录取工作',
-        time: '00:01:09',
+        title: '赛尔网络获得多项国家荣誉',
+        time: '00:01:35',
         picUrl: require('@/assets/imgs/p4-660x380.png'),
         video: {
           url:
-            'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/337eeffb22a84c611f7b0e0444e312f6/480bed572fcb7f47f54d1c99336a3264.mp4',
+            'https://2726-cn-north-4.cdn-vod.huaweicloud.com/asset/995a4d570ada7d17013d6f7e398492d6/9fad8c6f020b85222f27ad975acab6d2.mp4',
           type: 'video/mp4',
         },
       },
